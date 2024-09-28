@@ -1,0 +1,1 @@
+# ReturnOfReckoning-AddOns-SocialWindow-2.0
