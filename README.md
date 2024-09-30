@@ -7,7 +7,7 @@
 > 
 > | Version  | Description |
 > | ------------- | ------------- |
-> | 1.0.3  | Fixed an error in the log. Not a nessary update <br/>![Version 1.0.3](https://github.com/Makume/SocialWindow-2.0/blob/596706b5c33b8a3a0bd1cf9f8dbdad1a604b43fb/(Images)/Uilog.png)|
+> | 1.0.3  | Fixed an error in the log. Not a nessary update <br/>![Version 1.0.3](https://github.com/Makume/SocialWindow-2.0/blob/596706b5c33b8a3a0bd1cf9f8dbdad1a604b43fb/Images/Uilog.png)|
 > | 1.0.2  | Base version from indrith  |
 
 > [!NOTE]
